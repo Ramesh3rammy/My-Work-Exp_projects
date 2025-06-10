@@ -55,16 +55,16 @@ The dashboard is built to help HR and management teams analyze performance using
 
 ## 📸 Screenshots
 
-📁 All screenshots of the report pages are included in the `screenshots/` folder:
-### 🔹 EOM Main Page
-![EOM-Main Page](images/Sales-Or-Rewards-Main%20Page.png)
+Below are snapshots of the report pages:
 
-### 🔹 ASSMT Page
-![ASSMT Page ](images/Sales-Or-Rewards-ASSMT.png)
+### 🔹 EOM - Employee of the Month()
+![EOM-Main](images/EOM-Main.png)
 
-### 🔹 EOY Page
-![EOY Page](images/Sales-Or-Rewards-CommentsPage.png)
----
+### 🔹 ASSMT - Assessment
+![ASSMT](images/ASSMT.png)
+
+### 🔹 EOY - Employee of the Year
+![EOY](images/EOY.png)
 
 ## ✅ Key Features
 
